@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Brick Buster (WebGL).data.unityweb",
+"asmCodeUrl": "Brick Buster (WebGL).asm.code.unityweb",
+"asmMemoryUrl": "Brick Buster (WebGL).asm.memory.unityweb",
+"asmFrameworkUrl": "Brick Buster (WebGL).asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
